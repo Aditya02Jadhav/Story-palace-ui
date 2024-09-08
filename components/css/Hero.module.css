@@ -1,0 +1,19 @@
+.heroContainer {
+    background-image:url('/landing page/hero section images/Hero Section Background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    height: 100vh;
+}
+
+.heroContainer h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.heroContainer p {
+    font-size: 18px;
+    opacity: 0.8;
+}
